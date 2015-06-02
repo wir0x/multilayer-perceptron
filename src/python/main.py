@@ -1,4 +1,4 @@
-from utils.utilsFunctions import *
+from src.python.utils.utilsFunctions import *
 
 # Step 1
 '''Define input and output vector'''

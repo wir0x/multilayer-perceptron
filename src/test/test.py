@@ -1,4 +1,4 @@
-from utils.utilsFunctions import *
+from src.python.utils.utilsFunctions import *
 
 
 def test():
